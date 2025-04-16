@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83bfd047-f277-4e96-a1e2-65e4d1e44a5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Backtracking/subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/word_search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/generateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/generateParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/subsets.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/subsets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backtracking/word_search.java" beforeDir="false" afterPath="$PROJECT_DIR$/Backtracking/word_search.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Threading/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/Threading/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TrainngExercise/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrainngExercise/Main.java" afterDir="false" />
     </list>
@@ -35,36 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.blocked_maze.executor": "Run",
-    "Application.generateParenthesis.executor": "Run",
-    "Application.subsets.executor": "Run",
-    "Application.word_search.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programming/Java-Programming"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.blocked_maze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.subsets.executor&quot;: &quot;Run&quot;,
+    &quot;Application.word_search.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programming/Java-Programming&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.generateParenthesis">
+}</component>
+  <component name="RunManager" selected="Application.blocked_maze">
     <configuration name="blocked_maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Backtracking.blocked_maze" />
-      <module name="Java-Programming" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Backtracking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="generateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Backtracking.generateParenthesis" />
       <module name="Java-Programming" />
       <extension name="coverage">
         <pattern>
@@ -104,7 +89,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.generateParenthesis" />
         <item itemvalue="Application.blocked_maze" />
         <item itemvalue="Application.word_search" />
       </list>
